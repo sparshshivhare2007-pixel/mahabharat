@@ -1,0 +1,3 @@
+CURRENCY = "सुवर्ण"
+
+START_BALANCE = 100
